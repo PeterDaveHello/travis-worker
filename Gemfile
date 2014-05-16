@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '1.9.3', engine: 'jruby', engine_version: '1.7.12'
 
-gem 'travis-build',     git: 'https://github.com/travis-ci/travis-build'
+gem 'travis-build',     git: 'https://github.com/meatballhat/travis-build', branch: 'artifacts-support'
 gem 'travis-support',   git: 'https://github.com/travis-ci/travis-support', ref: 'f1cbac9'
 
 gem 'celluloid',        git: 'https://github.com/celluloid/celluloid', ref: '8a8d925'
