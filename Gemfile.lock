@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: https://github.com/travis-ci/travis-build
-  revision: 119b7a67aca17f1b70f896c9a92e2f7d3582537a
+  revision: b16022765382ea435171b838b16728c4a3edabd6
   branch: meatballhat-artifacts-support
   specs:
     travis-build (0.0.1)
