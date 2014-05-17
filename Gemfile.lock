@@ -28,9 +28,9 @@ GIT
     sshjr (0.1.0)
 
 GIT
-  remote: https://github.com/meatballhat/travis-build
-  revision: 514d45fa1c28f4b71ed27d6691379bf77386516a
-  branch: artifacts-support
+  remote: https://github.com/travis-ci/travis-build
+  revision: 6d3ee36acf49547517cbbb4b5ec5fdccbb8ae8d1
+  branch: meatballhat-artifacts-support
   specs:
     travis-build (0.0.1)
 
