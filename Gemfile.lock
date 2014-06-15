@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: https://github.com/travis-ci/travis-build
-  revision: 288ccbb59783529a1a35da393e4f6830b807e504
+  revision: 4a4964a6a0fc676d23699f3564500b113587f73f
   branch: start_services_during_paranoid_mode
   specs:
     travis-build (0.0.1)
