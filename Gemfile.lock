@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: https://github.com/travis-ci/travis-build
-  revision: 7ab13e37a7be314a09e35e5d66c3db39544edfa5
+  revision: aeebaf86f2fafcdba479282d00ff528ed86172b7
   branch: start_services_during_paranoid_mode
   specs:
     travis-build (0.0.1)
@@ -100,14 +100,14 @@ GEM
       rspec-core (~> 3.0.0)
       rspec-expectations (~> 3.0.0)
       rspec-mocks (~> 3.0.0)
-    rspec-core (3.0.1)
+    rspec-core (3.0.2)
       rspec-support (~> 3.0.0)
-    rspec-expectations (3.0.1)
+    rspec-expectations (3.0.2)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.0.0)
-    rspec-mocks (3.0.1)
+    rspec-mocks (3.0.2)
       rspec-support (~> 3.0.0)
-    rspec-support (3.0.0)
+    rspec-support (3.0.2)
     ruby-hmac (0.4.0)
     simplecov (0.8.2)
       docile (~> 1.1.0)
