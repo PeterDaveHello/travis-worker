@@ -49,7 +49,7 @@ module Travis
             'Cmd' => ['/sbin/init'],
             'Image' => image_id,
             'Memory' => (1024 * 1024 * 1024 * (docker_config.memory || 2)),
-            'Cpusets' => cpu_set,
+            'Cpuset' => cpu_set,
             'Hostname' => short_hostname,
             'Domainname' => domainname
           }
